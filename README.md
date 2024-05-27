@@ -7,6 +7,6 @@
 
 Huanhai and I try to reproduce the results of the paper [Liao, H., Liu, J., Wang, L., Xiang, T., 2019. Differentiable Programming Tensor Networks. Physical Review X 9, 31041]  in Julia.
 
-![](./examples/energy_density.png)
-![](./examples/specific_heat.png)
+![](./examples/energy_density_to.png)
+![](./examples/specific_heat_to.png)
 
