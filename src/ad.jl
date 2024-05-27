@@ -1,5 +1,11 @@
 module ad
 
-# Write your package code here.
+using LinearAlgebra:svd, Diagonal
+using TensorOperations
+using Plots
+
+export TRG
+
+include("trg.jl")
 
 end
